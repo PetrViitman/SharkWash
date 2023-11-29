@@ -1,0 +1,657 @@
+Intro@2x.png
+size:2048,2048
+filter:Linear,Linear
+Baloni Front
+bounds:5,2004,89,20
+offsets:1,1,91,22
+Base L Pipci
+bounds:1187,310,115,346
+offsets:1,1,117,348
+Base L Shadow
+bounds:2,93,187,389
+offsets:1,1,189,391
+Base L Stub
+bounds:1304,304,65,351
+offsets:1,1,67,353
+Base R Pipci
+bounds:1441,290,115,346
+offsets:1,1,117,348
+Base R Shadow
+bounds:191,75,187,402
+offsets:1,1,189,404
+Base R Stub
+bounds:1371,294,68,351
+offsets:1,1,70,353
+Beonjača
+bounds:79,1913,66,63
+offsets:1,1,68,65
+Bubbles around
+bounds:221,1190,620,114
+offsets:1,1,622,116
+Coral Net L
+bounds:69,484,176,219
+offsets:1,1,178,221
+Coral Net R
+bounds:247,479,176,221
+offsets:1,1,178,223
+Direction
+bounds:425,456,259,241
+offsets:3,3,264,246
+Foam
+bounds:686,392,499,272
+offsets:1,1,501,274
+Kapak
+bounds:1239,1684,84,74
+offsets:1,1,86,76
+Kvaka L
+bounds:1325,1684,89,73
+offsets:1,1,91,75
+Kvaka R
+bounds:565,1691,104,72
+offsets:1,1,106,74
+Metla L
+bounds:380,15,159,439
+Metla R
+bounds:1558,205,150,388
+Metla_Starfish
+bounds:1992,777,44,360
+offsets:1,1,46,362
+Okce
+bounds:1646,1597,84,83
+offsets:1,1,86,85
+Shadow Down
+bounds:191,1966,225,58
+offsets:1,1,227,60
+Sponge
+bounds:824,1015,140,155
+offsets:1,1,142,157
+Starfish
+bounds:657,1306,200,112
+Vrata L
+bounds:541,2,335,388
+offsets:1,1,337,390
+Vrata R
+bounds:1839,239,147,357
+offsets:1,1,149,359
+Zenica
+bounds:137,1978,52,46
+offsets:1,1,54,48
+foam_bubbles/Bubbles Intro surface_43
+bounds:1827,1962,177,62
+offsets:300,332,842,842
+foam_bubbles/Bubbles Intro surface_44
+bounds:856,1833,187,65
+offsets:300,330,842,842
+foam_bubbles/Bubbles Intro surface_45
+bounds:1807,1824,187,67
+offsets:300,330,842,842
+foam_bubbles/Bubbles Intro surface_46
+bounds:565,1765,189,68
+offsets:299,330,842,842
+foam_bubbles/Bubbles Intro surface_47
+bounds:944,1761,189,69
+offsets:299,331,842,842
+foam_bubbles/Bubbles Intro surface_48
+bounds:1135,1760,189,69
+offsets:299,332,842,842
+foam_bubbles/Bubbles Intro surface_49
+bounds:1045,1832,189,65
+offsets:299,332,842,842
+foam_bubbles/Bubbles Intro surface_50
+bounds:1425,1830,189,66
+offsets:299,333,842,842
+foam_bubbles/Bubbles Intro surface_51
+bounds:187,1694,190,71
+offsets:298,329,842,842
+foam_bubbles/Bubbles Intro surface_52
+bounds:671,1689,190,72
+offsets:298,330,842,842
+foam_bubbles/Bubbles Intro surface_53
+bounds:863,1687,190,72
+offsets:298,331,842,842
+foam_bubbles/Bubbles Intro surface_54
+bounds:574,1613,190,74
+offsets:298,330,842,842
+foam_bubbles/Bubbles Intro surface_55
+bounds:1326,1759,190,69
+offsets:298,331,842,842
+foam_bubbles/Bubbles Intro surface_56
+bounds:379,1694,184,71
+offsets:304,331,842,842
+foam_bubbles/Bubbles Intro surface_57
+bounds:1607,1757,185,69
+offsets:304,332,842,842
+foam_bubbles/Bubbles Intro surface_58
+bounds:918,1900,186,63
+offsets:303,333,842,842
+foam_bubbles/Bubbles Intro surface_59
+bounds:1752,1896,186,64
+offsets:303,334,842,842
+foam_bubbles/Bubbles Intro surface_60
+bounds:87,1836,186,64
+offsets:303,335,842,842
+foam_bubbles/Bubbles Intro surface_61
+bounds:1416,1683,188,73
+offsets:302,328,842,842
+foam_bubbles/Bubbles Intro surface_62
+bounds:1788,1678,188,73
+offsets:302,329,842,842
+foam_bubbles/Bubbles Intro surface_63
+bounds:2,1619,188,73
+offsets:302,330,842,842
+foam_bubbles/Bubbles Intro surface_64
+bounds:192,1619,188,73
+offsets:302,328,842,842
+foam_bubbles/Bubbles Intro surface_65
+bounds:766,1611,190,74
+offsets:301,328,842,842
+foam_bubbles/Bubbles Intro surface_66
+bounds:958,1610,190,74
+offsets:301,328,842,842
+foam_bubbles/Bubbles Intro surface_67
+bounds:1150,1607,190,75
+offsets:301,328,842,842
+foam_bubbles/Bubbles Intro surface_68
+bounds:382,1616,190,73
+offsets:301,328,842,842
+foam_bubbles/Bubbles Intro surface_69
+bounds:147,1902,191,62
+offsets:301,329,842,842
+foam_bubbles/Bubbles Intro surface_70
+bounds:1156,1964,189,60
+offsets:303,329,842,842
+foam_bubbles/Bubbles Intro surface_71
+bounds:1446,1963,189,61
+offsets:303,329,842,842
+foam_bubbles/Bubbles Intro surface_72
+bounds:1637,1963,188,61
+offsets:304,330,842,842
+foam_bubbles/Bubbles Intro surface_73
+bounds:1106,1899,189,63
+offsets:304,330,842,842
+foam_bubbles/Bubbles Intro surface_74
+bounds:275,1836,199,64
+offsets:294,330,842,842
+foam_bubbles/Bubbles Intro surface_75
+bounds:418,1966,186,58
+offsets:304,331,842,842
+foam_bubbles/Bubbles Intro surface_76
+bounds:788,1965,185,59
+offsets:305,331,842,842
+foam_bubbles/Bubbles Intro surface_77
+bounds:340,1902,185,62
+offsets:305,330,842,842
+foam_bubbles/Bubbles Intro surface_78
+bounds:527,1902,186,62
+offsets:304,331,842,842
+foam_bubbles/Bubbles Intro surface_79
+bounds:1297,1898,187,63
+offsets:304,331,842,842
+foam_bubbles/Bubbles Intro surface_80
+bounds:476,1836,187,64
+offsets:304,332,842,842
+foam_bubbles/Bubbles Intro surface_81
+bounds:1236,1831,187,65
+offsets:304,332,842,842
+foam_bubbles/Bubbles Intro surface_82
+bounds:715,1901,201,62
+offsets:290,332,842,842
+foam_bubbles/Bubbles Intro surface_83
+bounds:1486,1898,200,63
+offsets:291,333,842,842
+foam_bubbles/Bubbles Intro surface_84
+bounds:665,1835,189,64
+offsets:292,333,842,842
+foam_bubbles/Bubbles Intro surface_85
+bounds:1616,1828,189,66
+offsets:292,333,842,842
+foam_bubbles/Bubbles Intro surface_86
+bounds:2,1767,187,67
+offsets:293,333,842,842
+foam_bubbles/Bubbles Intro surface_87
+bounds:191,1767,186,67
+offsets:294,334,842,842
+foam_bubbles/Bubbles Intro surface_88
+bounds:756,1763,186,68
+offsets:294,330,842,842
+foam_bubbles/Bubbles Intro surface_89
+bounds:379,1767,184,67
+offsets:295,331,842,842
+foam_bubbles/Bubbles Intro surface_90
+bounds:1794,1753,183,69
+offsets:296,330,842,842
+foam_bubbles/Bubbles Intro surface_91
+bounds:2,1695,183,70
+offsets:296,331,842,842
+foam_bubbles/Bubbles Intro surface_92
+bounds:1055,1686,182,72
+offsets:297,330,842,842
+foam_bubbles/Bubbles Intro surface_93
+bounds:1606,1682,180,73
+offsets:298,331,842,842
+foam_bubbles/Bubbles Intro surface_94
+bounds:606,1966,180,58
+offsets:298,331,842,842
+foam_bubbles/Bubbles Intro surface_95
+bounds:975,1965,179,59
+offsets:299,332,842,842
+foam_bubbles/Bubbles Intro tube slow_100
+bounds:1200,658,67,172
+offsets:355,324,842,842
+foam_bubbles/Bubbles Intro tube slow_101
+bounds:1484,638,67,174
+offsets:355,324,842,842
+foam_bubbles/Bubbles Intro tube slow_102
+bounds:1628,636,67,176
+offsets:355,324,842,842
+foam_bubbles/Bubbles Intro tube slow_103
+bounds:988,668,67,171
+offsets:355,325,842,842
+foam_bubbles/Bubbles Intro tube slow_104
+bounds:1132,666,66,171
+offsets:356,326,842,842
+foam_bubbles/Bubbles Intro tube slow_105
+bounds:1440,988,60,166
+offsets:362,326,842,842
+foam_bubbles/Bubbles Intro tube slow_106
+bounds:1698,774,61,166
+offsets:361,328,842,842
+foam_bubbles/Bubbles Intro tube slow_107
+bounds:69,727,61,167
+offsets:361,329,842,842
+foam_bubbles/Bubbles Intro tube slow_108
+bounds:1985,1139,61,151
+offsets:361,330,842,842
+foam_bubbles/Bubbles Intro tube slow_109
+bounds:160,1037,61,151
+offsets:361,331,842,842
+foam_bubbles/Bubbles Intro tube slow_110
+bounds:287,1036,61,152
+offsets:361,332,842,842
+foam_bubbles/Bubbles Intro tube slow_111
+bounds:488,1035,61,153
+offsets:361,333,842,842
+foam_bubbles/Bubbles Intro tube slow_112
+bounds:551,1034,61,154
+offsets:361,333,842,842
+foam_bubbles/Bubbles Intro tube slow_113
+bounds:966,1015,61,155
+offsets:361,334,842,842
+foam_bubbles/Bubbles Intro tube slow_114
+bounds:1168,1005,61,156
+offsets:361,335,842,842
+foam_bubbles/Bubbles Intro tube slow_115
+bounds:1231,998,61,156
+offsets:361,336,842,842
+foam_bubbles/Bubbles Intro tube slow_116
+bounds:1502,981,62,158
+offsets:360,336,842,842
+foam_bubbles/Bubbles Intro tube slow_117
+bounds:1854,940,62,161
+offsets:360,335,842,842
+foam_bubbles/Bubbles Intro tube slow_118
+bounds:222,874,62,161
+offsets:360,336,842,842
+foam_bubbles/Bubbles Intro tube slow_119
+bounds:1921,1140,62,150
+offsets:360,336,842,842
+foam_bubbles/Bubbles Intro tube slow_120
+bounds:223,1037,62,151
+offsets:360,337,842,842
+foam_bubbles/Bubbles Intro tube slow_121
+bounds:1979,1677,62,145
+offsets:360,336,842,842
+foam_bubbles/Bubbles Intro tube slow_122
+bounds:1954,1442,62,147
+offsets:360,336,842,842
+foam_bubbles/Bubbles Intro tube slow_123
+bounds:1951,1292,62,148
+offsets:360,336,842,842
+foam_bubbles/Bubbles Intro tube slow_124
+bounds:350,1036,62,152
+offsets:360,334,842,842
+foam_bubbles/Bubbles Intro tube slow_125
+bounds:614,1034,62,154
+offsets:360,334,842,842
+foam_bubbles/Bubbles Intro tube slow_43
+bounds:1029,1006,63,155
+offsets:359,334,842,842
+foam_bubbles/Bubbles Intro tube slow_44
+bounds:1062,840,68,164
+offsets:354,329,842,842
+foam_bubbles/Bubbles Intro tube slow_45
+bounds:132,706,68,167
+offsets:354,328,842,842
+foam_bubbles/Bubbles Intro tube slow_46
+bounds:549,701,67,168
+offsets:355,329,842,842
+foam_bubbles/Bubbles Intro tube slow_47
+bounds:780,850,68,163
+offsets:354,329,842,842
+foam_bubbles/Bubbles Intro tube slow_48
+bounds:1132,839,68,164
+offsets:354,330,842,842
+foam_bubbles/Bubbles Intro tube slow_49
+bounds:361,872,66,162
+offsets:354,331,842,842
+foam_bubbles/Bubbles Intro tube slow_50
+bounds:1490,814,66,165
+offsets:354,330,842,842
+foam_bubbles/Bubbles Intro tube slow_51
+bounds:202,705,66,167
+offsets:354,329,842,842
+foam_bubbles/Bubbles Intro tube slow_52
+bounds:618,699,66,169
+offsets:354,329,842,842
+foam_bubbles/Bubbles Intro tube slow_53
+bounds:1269,658,66,172
+offsets:354,327,842,842
+foam_bubbles/Bubbles Intro tube slow_54
+bounds:850,850,66,163
+offsets:354,326,842,842
+foam_bubbles/Bubbles Intro tube slow_55
+bounds:1202,832,68,164
+offsets:353,326,842,842
+foam_bubbles/Bubbles Intro tube slow_56
+bounds:1558,814,68,165
+offsets:353,327,842,842
+foam_bubbles/Bubbles Intro tube slow_57
+bounds:1761,773,68,166
+offsets:353,327,842,842
+foam_bubbles/Bubbles Intro tube slow_58
+bounds:1831,772,68,166
+offsets:353,328,842,842
+foam_bubbles/Bubbles Intro tube slow_59
+bounds:270,704,68,167
+offsets:353,329,842,842
+foam_bubbles/Bubbles Intro tube slow_60
+bounds:686,699,68,169
+offsets:353,329,842,842
+foam_bubbles/Bubbles Intro tube slow_61
+bounds:918,850,68,163
+offsets:353,330,842,842
+foam_bubbles/Bubbles Intro tube slow_62
+bounds:1272,832,68,164
+offsets:353,331,842,842
+foam_bubbles/Bubbles Intro tube slow_63
+bounds:1628,814,68,165
+offsets:353,331,842,842
+foam_bubbles/Bubbles Intro tube slow_64
+bounds:848,678,70,170
+offsets:352,328,842,842
+foam_bubbles/Bubbles Intro tube slow_65
+bounds:1412,647,70,173
+offsets:352,326,842,842
+foam_bubbles/Bubbles Intro tube slow_66
+bounds:1566,981,70,158
+offsets:352,326,842,842
+foam_bubbles/Bubbles Intro tube slow_67
+bounds:1638,981,70,158
+offsets:352,327,842,842
+foam_bubbles/Bubbles Intro tube slow_68
+bounds:1782,941,70,160
+offsets:352,327,842,842
+foam_bubbles/Bubbles Intro tube slow_69
+bounds:678,1034,70,154
+offsets:352,328,842,842
+foam_bubbles/Bubbles Intro tube slow_70
+bounds:1368,997,70,157
+offsets:352,327,842,842
+foam_bubbles/Bubbles Intro tube slow_71
+bounds:1710,942,70,159
+offsets:352,326,842,842
+foam_bubbles/Bubbles Intro tube slow_72
+bounds:2,896,70,160
+offsets:352,327,842,842
+foam_bubbles/Bubbles Intro tube slow_73
+bounds:429,871,70,162
+offsets:352,327,842,842
+foam_bubbles/Bubbles Intro tube slow_74
+bounds:632,870,71,162
+offsets:351,328,842,842
+foam_bubbles/Bubbles Intro tube slow_75
+bounds:988,841,72,163
+offsets:351,329,842,842
+foam_bubbles/Bubbles Intro tube slow_76
+bounds:1342,831,72,164
+offsets:351,330,842,842
+foam_bubbles/Bubbles Intro tube slow_77
+bounds:1416,822,72,164
+offsets:351,331,842,842
+foam_bubbles/Bubbles Intro tube slow_78
+bounds:1918,812,72,165
+offsets:351,332,842,842
+foam_bubbles/Bubbles Intro tube slow_79
+bounds:1094,1006,72,155
+offsets:351,332,842,842
+foam_bubbles/Bubbles Intro tube slow_80
+bounds:1294,998,72,156
+offsets:351,332,842,842
+foam_bubbles/Bubbles Intro tube slow_81
+bounds:414,1036,72,152
+offsets:351,332,842,842
+foam_bubbles/Bubbles Intro tube slow_82
+bounds:750,1034,72,154
+offsets:351,331,842,842
+foam_bubbles/Bubbles Intro tube slow_83
+bounds:1918,979,72,158
+offsets:351,329,842,842
+foam_bubbles/Bubbles Intro tube slow_84
+bounds:74,896,72,160
+offsets:351,329,842,842
+foam_bubbles/Bubbles Intro tube slow_85
+bounds:286,873,73,161
+offsets:350,329,842,842
+foam_bubbles/Bubbles Intro tube slow_86
+bounds:705,870,73,162
+offsets:350,330,842,842
+foam_bubbles/Bubbles Intro tube slow_87
+bounds:340,703,73,167
+offsets:350,327,842,842
+foam_bubbles/Bubbles Intro tube slow_88
+bounds:1057,668,73,170
+offsets:350,325,842,842
+foam_bubbles/Bubbles Intro tube slow_89
+bounds:1337,657,73,172
+offsets:350,325,842,842
+foam_bubbles/Bubbles Intro tube slow_90
+bounds:1553,638,73,174
+offsets:350,325,842,842
+foam_bubbles/Bubbles Intro tube slow_91
+bounds:1901,635,73,175
+offsets:350,325,842,842
+foam_bubbles/Bubbles Intro tube slow_92
+bounds:1697,595,73,176
+offsets:350,326,842,842
+foam_bubbles/Bubbles Intro tube slow_93
+bounds:1976,598,69,177
+offsets:355,327,842,842
+foam_bubbles/Bubbles Intro tube slow_94
+bounds:1772,593,65,177
+offsets:356,328,842,842
+foam_bubbles/Bubbles Intro tube slow_95
+bounds:2,544,65,182
+offsets:356,325,842,842
+foam_bubbles/Bubbles Intro tube slow_96
+bounds:415,702,65,167
+offsets:356,325,842,842
+foam_bubbles/Bubbles Intro tube slow_97
+bounds:2,728,65,166
+offsets:356,325,842,842
+foam_bubbles/Bubbles Intro tube slow_98
+bounds:482,702,65,167
+offsets:356,326,842,842
+foam_bubbles/Bubbles Intro tube slow_99
+bounds:920,678,66,170
+offsets:356,325,842,842
+foam_bubbles/Bubbles_starfish_43
+bounds:2,2023,1,1
+foam_bubbles/Bubbles_starfish_44
+bounds:1347,1964,40,60
+offsets:372,305,842,842
+foam_bubbles/Bubbles_starfish_45
+bounds:1688,1897,62,64
+offsets:372,304,842,842
+foam_bubbles/Bubbles_starfish_46
+bounds:1342,1603,78,78
+offsets:372,303,842,842
+foam_bubbles/Bubbles_starfish_47
+bounds:1422,1602,102,79
+offsets:372,303,842,842
+foam_bubbles/Bubbles_starfish_48
+bounds:1526,1599,118,81
+offsets:372,303,842,842
+foam_bubbles/Bubbles_starfish_49
+bounds:1732,1593,136,83
+offsets:371,303,842,842
+foam_bubbles/Bubbles_starfish_50
+bounds:1870,1591,156,84
+offsets:371,303,842,842
+foam_bubbles/Bubbles_starfish_51
+bounds:2,1532,186,85
+offsets:371,303,842,842
+foam_bubbles/Bubbles_starfish_52
+bounds:190,1528,191,86
+offsets:371,304,842,842
+foam_bubbles/Bubbles_starfish_53
+bounds:383,1524,209,87
+offsets:371,305,842,842
+foam_bubbles/Bubbles_starfish_54
+bounds:594,1521,211,88
+offsets:371,306,842,842
+foam_bubbles/Bubbles_starfish_55
+bounds:807,1520,211,88
+offsets:371,308,842,842
+foam_bubbles/Bubbles_starfish_56
+bounds:1020,1516,211,89
+offsets:372,310,842,842
+foam_bubbles/Bubbles_starfish_57
+bounds:1233,1511,212,89
+offsets:372,312,842,842
+foam_bubbles/Bubbles_starfish_58
+bounds:1447,1505,212,90
+offsets:372,314,842,842
+foam_bubbles/Bubbles_starfish_59
+bounds:1661,1498,213,91
+offsets:372,316,842,842
+foam_bubbles/Bubbles_starfish_60
+bounds:2,1434,214,92
+offsets:372,317,842,842
+foam_bubbles/Bubbles_starfish_61
+bounds:368,1427,214,95
+offsets:372,318,842,842
+foam_bubbles/Bubbles_starfish_62
+bounds:584,1422,215,97
+offsets:372,319,842,842
+foam_bubbles/Bubbles_starfish_63
+bounds:801,1420,215,98
+offsets:372,321,842,842
+foam_bubbles/Bubbles_starfish_64
+bounds:1156,1410,215,99
+offsets:372,323,842,842
+foam_bubbles/Bubbles_starfish_65
+bounds:1373,1401,216,102
+offsets:372,324,842,842
+foam_bubbles/Bubbles_starfish_66
+bounds:1591,1392,216,104
+offsets:372,326,842,842
+foam_bubbles/Bubbles_starfish_67
+bounds:2,1321,216,105
+offsets:372,329,842,842
+foam_bubbles/Bubbles_starfish_68
+bounds:220,1318,217,107
+offsets:372,331,842,842
+foam_bubbles/Bubbles_starfish_69
+bounds:439,1310,216,110
+offsets:373,333,842,842
+foam_bubbles/Bubbles_starfish_70
+bounds:996,1296,216,112
+offsets:373,336,842,842
+foam_bubbles/Bubbles_starfish_71
+bounds:1327,1286,217,113
+offsets:373,339,842,842
+foam_bubbles/Bubbles_starfish_72
+bounds:1546,1274,217,116
+offsets:373,341,842,842
+foam_bubbles/Bubbles_starfish_73
+bounds:2,1197,217,119
+offsets:373,344,842,842
+foam_bubbles/Bubbles_starfish_74
+bounds:843,1172,217,122
+offsets:373,346,842,842
+foam_bubbles/Bubbles_starfish_75
+bounds:1062,1163,218,125
+offsets:373,349,842,842
+foam_bubbles/Bubbles_starfish_76
+bounds:1282,1156,218,128
+offsets:373,351,842,842
+foam_bubbles/Bubbles_starfish_77
+bounds:1502,1141,217,131
+offsets:374,354,842,842
+foam_bubbles/Bubbles_starfish_78
+bounds:1721,1103,195,134
+offsets:396,357,842,842
+foam_bubbles/Bubbles_starfish_79
+bounds:2,1058,156,137
+offsets:435,360,842,842
+foam_bubbles/Bubbles_starfish_80
+bounds:1765,1239,154,136
+offsets:437,363,842,842
+foam_bubbles/Bubbles_starfish_81
+bounds:1809,1377,140,115
+offsets:451,366,842,842
+foam_bubbles/Bubbles_starfish_82
+bounds:859,1301,135,117
+offsets:457,369,842,842
+foam_bubbles/Bubbles_starfish_83
+bounds:1214,1290,111,118
+offsets:481,373,842,842
+foam_bubbles/Bubbles_starfish_84
+bounds:1518,1758,87,70
+offsets:505,377,842,842
+foam_bubbles/Bubbles_starfish_85
+bounds:1940,1893,86,67
+offsets:506,380,842,842
+tube L Down L
+bounds:2,1842,83,69
+offsets:1,1,85,71
+tube L Down R
+bounds:1389,1964,55,60
+offsets:1,1,57,62
+tube L Middle
+bounds:756,679,90,169
+offsets:1,1,92,171
+tube L Shadow
+bounds:1876,1494,76,95
+offsets:1,1,78,97
+tube L Shadow Back
+bounds:501,871,129,161
+offsets:1,1,131,163
+tube L Sides
+bounds:218,1428,148,98
+offsets:1,1,150,100
+tube R Down L
+bounds:96,1981,39,43
+offsets:1,1,41,45
+tube R Down R
+bounds:2,1940,75,62
+offsets:1,1,77,64
+tube R Middle
+bounds:148,875,72,160
+offsets:1,1,74,162
+tube R Sides
+bounds:1018,1413,136,101
+offsets:1,1,138,103
+
+Intro_2@2x.png
+size:2048,1024
+filter:Linear,Linear
+Blue Back
+bounds:2,199,970,775
+offsets:1,1,972,777
+Grlo
+bounds:974,2,476,452
+offsets:1,1,478,454
+Ulaz Stok
+bounds:974,456,625,518
+offsets:1,1,627,520

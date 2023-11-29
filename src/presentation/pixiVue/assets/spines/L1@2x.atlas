@@ -1,0 +1,11 @@
+L1@2x.png
+size:512,256
+filter:Linear,Linear
+L1
+bounds:2,2,141,142
+offsets:146,124,400,400
+L5_shadow
+bounds:145,2,140,142
+offsets:1,1,142,144
+L5_spine
+bounds:287,26,117,118

@@ -1,0 +1,87 @@
+{
+  "frames": {
+    "splash_free_spins": {
+      "frame": {
+        "x": 5,
+        "y": 5,
+        "w": 800,
+        "h": 587
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 0,
+        "w": 800,
+        "h": 587
+      },
+      "sourceSize": {
+        "w": 804,
+        "h": 589
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "splash_default_game": {
+      "frame": {
+        "x": 5,
+        "y": 602,
+        "w": 760,
+        "h": 586
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 2,
+        "w": 760,
+        "h": 586
+      },
+      "sourceSize": {
+        "w": 804,
+        "h": 589
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "logo": {
+      "frame": {
+        "x": 815,
+        "y": 5,
+        "w": 428,
+        "h": 364
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 428,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 428,
+        "h": 364
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "teaser_elements.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1184,
+      "h": 1193
+    },
+    "scale": 1
+  }
+}
