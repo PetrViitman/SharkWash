@@ -1,6 +1,7 @@
 # Shark Wash remake
-The remake of Shark Wash by Relax Gaming  
-https://relax-gaming.com/products/casino/sharkwash
+The remake of Shark Wash by Relax Gaming
+Check it out: https://shark-wash.web.app
+The original game: https://relax-gaming.com/products/casino/sharkwash
 
 ## Optional URL parameters (autodetected if not provided):
 - lang — language code en|ru  
