@@ -1,0 +1,183 @@
+{
+  "frames": {
+    "wild_frame_background": {
+      "frame": {
+        "x": 5,
+        "y": 5,
+        "w": 201,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 201,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 201,
+        "h": 200
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "wild_glass_0": {
+      "frame": {
+        "x": 5,
+        "y": 215,
+        "w": 152,
+        "h": 161
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 161
+      },
+      "sourceSize": {
+        "w": 152,
+        "h": 161
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "wild_glass_1": {
+      "frame": {
+        "x": 176,
+        "y": 215,
+        "w": 152,
+        "h": 161
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 161
+      },
+      "sourceSize": {
+        "w": 152,
+        "h": 161
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "wild_glass_2": {
+      "frame": {
+        "x": 216,
+        "y": 5,
+        "w": 152,
+        "h": 161
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 161
+      },
+      "sourceSize": {
+        "w": 152,
+        "h": 161
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "wild_glass_3": {
+      "frame": {
+        "x": 5,
+        "y": 377,
+        "w": 152,
+        "h": 161
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 161
+      },
+      "sourceSize": {
+        "w": 152,
+        "h": 161
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "wild_glass_4": {
+      "frame": {
+        "x": 176,
+        "y": 377,
+        "w": 152,
+        "h": 161
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 152,
+        "h": 161
+      },
+      "sourceSize": {
+        "w": 152,
+        "h": 161
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "wild_flashlight": {
+      "frame": {
+        "x": 216,
+        "y": 176,
+        "w": 23,
+        "h": 23
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 23,
+        "h": 23
+      },
+      "sourceSize": {
+        "w": 23,
+        "h": 23
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "wild_elements.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 373,
+      "h": 534
+    },
+    "scale": 1
+  }
+}
